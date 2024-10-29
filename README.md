@@ -1,5 +1,5 @@
 # Urban-Sounds-Classification
-Assignment of the course Machine Learning II (3rd year, 1st semester)
+Assignment of the course Machine Learning II (BSc in Artificial Intelligence and Data Science 3rd year, 1st semester)
 
 ## A little context
 This project is divided into 10 notebooks, all run on Google Colab, for the sake of simplification in terms of dependencies, except for notebooks 8, 9, and 10.
